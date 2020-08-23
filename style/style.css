@@ -1,0 +1,12 @@
+
+img {
+    float: center;
+    widows: 280px;
+    margin: 25px;
+    min-height: 250px;
+    max-height: 250px;
+    padding: 3%;
+    border: 2px red;
+    
+
+}
